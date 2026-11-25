@@ -1,7 +1,5 @@
 # EventCrew — Student Event Crew Chat
 
-**Plan. Assign. Go live.**
-
 EventCrew is a Java desktop chat application for student event organizers. It helps an event crew communicate over a local network, assign responsibilities, track task progress, and confirm whether the team is ready before an event begins.
 
 | Project information | Details |
@@ -9,10 +7,10 @@ EventCrew is a Java desktop chat application for student event organizers. It he
 | Course / Section | ITAS1 – BSIT 2B SD |
 | Project | Network Programming — Java LAN Chat Application |
 | Theme | Event Crew |
-| Members | [Member 1 full name] · [Member 2 full name] |
-| GitHub usernames | [@username1] · [@username2] |
-| Repository | [Paste the public GitHub repository URL] |
-| Instructor approval | [Approved / pending — add date] |
+| Members | Danielle Grace B. Colacion · Crystal Ann P. Naol |
+| GitHub usernames | DaneGrace · crystalannpaloga-cloud |
+| Repository | 2d1a5ec748a2221bffad3fe57997f885c6bf4507 |
+
 
 ---
 
@@ -269,8 +267,8 @@ Add dated tasks and links to the relevant GitHub commits for both members.
 
 | Member | Date | Task completed | Commit link |
 |---|---|---|---|
-| [Member 1] | [YYYY-MM-DD] | [Describe the actual change] | [GitHub commit URL] |
-| [Member 2] | [YYYY-MM-DD] | [Describe the actual change] | [GitHub commit URL] |
+| Danielle Grace B. Colacion | 2026-12-15 | Readme | [2d1a5ec748a2221bffad3fe57997f885c6bf4507] |
+| Crystal Ann P. Naol | 2026-12-15 | Readme Changes | [GitHub commit URL] |
 
 ## 14. Credits and AI Disclosure
 
@@ -297,5 +295,3 @@ EventCrew/
 ```
 
 ---
-
-**Project scope:** EventCrew is intended for a local-network demonstration. Internet hosting, user accounts, database storage, mobile apps, and file transfer are outside the stated project scope.
