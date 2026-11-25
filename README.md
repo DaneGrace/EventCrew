@@ -256,8 +256,8 @@ Update this table to reflect the work each partner actually completed.
 
 | Member | Assigned responsibility | Actual contribution |
 |---|---|---|
-| [Member 1] | [Server / networking / documentation / testing] | [Describe completed work] |
-| [Member 2] | [Client GUI / features / documentation / testing] | [Describe completed work] |
+| Danielle Grace B. Colacion | Creating the system | The completed work is the system |
+| Crystal Ann P. Naol | Testing the system if it's working | Running the system correctly |
 
 Both partners should be able to explain the code, demonstrate the application, and answer questions about their own contributions.
 
@@ -268,7 +268,7 @@ Add dated tasks and links to the relevant GitHub commits for both members.
 | Member | Date | Task completed | Commit link |
 |---|---|---|---|
 | Danielle Grace B. Colacion | 2026-12-15 | Readme | [2d1a5ec748a2221bffad3fe57997f885c6bf4507] |
-| Crystal Ann P. Naol | 2026-12-15 | Readme Changes | [GitHub commit URL] |
+| Crystal Ann P. Naol | 2026-12-15 | Readme Changes | 54d2e15795ddf100a720dabb07c4694091f05666 |
 
 ## 14. Credits and AI Disclosure
 
